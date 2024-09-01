@@ -47,4 +47,4 @@ jobs:
       uses: actions/upload-artifact@v2
       with:
         name: my-rust-project-release
-        path: target/release/
+        path: target/release/zed.exe
